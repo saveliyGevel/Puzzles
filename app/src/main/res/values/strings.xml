@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="choose_button">Choose image</string>
+    <string name="start_button">Start</string>
+
+    <string name="new_game_button">New Game</string>
+    <string name="settings_button">Settings</string>
+    <string name="about_button">About</string>
+
+    <string name="watch_button">Watch full image</string>
+    <string name="restart_button">Restart puzzle</string>
+
+    <string-array name="complexities">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+        <item>Nightmare</item>
+        <item>Impossible</item>
+    </string-array>
+
+    <string name="seconds">Time: </string>
+
+    <string name="about_text">Created by Gevel Savely, student of 23501/2 group</string>
+    <string name="statistic_text">Statistic</string>
+    <string name="total_games">Total Games:</string>
+    <string name="mid_time">Average time: </string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Puzzle</string>
+    <string name="about_button">О приложении</string>
+    <string name="choose_button">Выбрать картинку</string>
+    <string name="new_game_button">Начать игру</string>
+    <string name="restart_button">Заново</string>
+    <string name="settings_button">Настройки</string>
+    <string name="start_button">Новая игра</string>
+    <string name="watch_button">Посмотреть изображние</string>
+    <string name="seconds">Прошло: </string>
+    <string-array name="complexities">
+        <item>Простой</item>
+        <item>Средний</item>
+        <item>Сложный</item>
+        <item>Кошмар</item>
+        <item>Невозможный</item>
+    </string-array>
+    <string name="about_text">Написано Гевел Савелием, студентом  группы 23501/2</string>
+    <string name="statistic_text">Статистика</string>
+    <string name="total_games">"Игр сыграно: "</string>
+    <string name="mid_time">Среднее время игры: </string>
+</resources>
